@@ -13,7 +13,7 @@ It demonstrates how to build a simple **Model Context Protocol (MCP)** server in
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/mcp-weather-server.git
+    git clone https://github.com/tharani-techie/mcp-weather-server.git
     cd mcp-weather-server
     ```
 
